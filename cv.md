@@ -8,6 +8,7 @@ You can **contact** me via:
  * _email_: igor.vypov@gmail.com;
  * _github_: @IharVypau;
  * _telegram_: @ivypov;
+ * _phone_: +375(29)6533196
 
 
 ---
