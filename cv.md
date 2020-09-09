@@ -20,6 +20,6 @@ I am aspiring to become a professional in web development, and I wanna try to ea
 
 **Experience:** I don't have experience in web development, but now i'm studying web development and JavaScript at rs-school.
 
-**Education:** I am in my 4th year at university for a graphic design programm. I've taken an open cs50 course from Harverd online and am currently studying at rs-school.
+**Education:** Graduated from the university with a degree in engineering
 
 **English skills:** I estimate my English at A1-A2 level, i don't have practice of communicating on this language, it was not necessary until now.
