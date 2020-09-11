@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.resume-container {
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-left: 15px;
+}
+
+.opacity05 {
+    opacity: 0.5;
+}
+
+.name {
+    font-family: "Libre Baskerville";
+    font-size: 42px;
+}
+
+.paper {
+    line-height: 1.4;
+    border-left: 20px solid #D0021B;
+    margin: 0 auto;
+    padding: 10px 25px;
+    max-width: 1024px;
+}
+
+.section-title {
+    color: #D0021B;
+    border-bottom: 1px solid #D0021B;
+}
+
+.color {
+    color: #D0021B;
+}
+
+.paper-header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.paper-header>div {
+    flex-grow: 1;
+}
